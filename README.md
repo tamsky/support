@@ -1,6 +1,8 @@
 Wercker support
 ===============
 
+[![Slack Status](http://werckerpublicslack.herokuapp.com/badge.svg)](http://slack.wercker.com)
+
 Checkout the "Issues" chapter to report any issues.
 
 Feel free to report any feedback as well!
