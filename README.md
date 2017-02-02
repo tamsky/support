@@ -10,6 +10,16 @@ Feel free to report any feedback as well!
 Issues
 ======
 
+This repo is no longer a point of contact for support issues.
+Please do not file issues here.  (Oh right, you can't.)
+All past issues that search engines might have directed you here to see; oops, we removed those without archiving them.
+
+It's as if millions of voices cried out for support, and were suddenly silenced.
+
+Feel free to report your feedback on how well we are providing support to /dev/null.
+
+Also, if you are a current customer looking to trigger an App (re)build without pushing a commit, don't look at http://blog.wercker.com/triggering-builds-with-the-wercker-api because that's not available for all stacks.
+
 ### Wercker CLI
 
 If you are experiencing issues running wercker locally, please submit a support ticket using the "Contact Us" link at https://wercker.uservoice.com/forums/181077-general
