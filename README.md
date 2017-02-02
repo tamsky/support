@@ -1,3 +1,12 @@
+^^^^ Don't forget to update your repo description.
+
+Up there ^^^^ It still says
+
+> Wercker Support - Drop your issues and problems that you are running into
+
+I'm dropping my issues right here, cause it says so, up there.  =)
+
+
 Wercker support
 ===============
 
