@@ -20,8 +20,11 @@ Issues
 ======
 
 This repo is no longer a point of contact for support issues.
+
 Please do not file issues here.  (Oh right, you can't.)
-All past issues that search engines might have directed you here to see; oops, we removed those without archiving them.
+
+All past two-hundred-plus issues that search engines might have directed you here to see; 
+oops, we removed those without archiving them.
 
 It's as if millions of voices cried out for support, and were suddenly silenced.
 
